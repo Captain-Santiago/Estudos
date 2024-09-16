@@ -1,0 +1,1 @@
+Como dito por Fábio Akita nos vídeos: "[Esqueça Metodologias \"Ágeis\" \| \[Rated R\]](https://youtu.be/xjjX3R2WuoM)" e "[The MM-M: O Melhor Livro de Software?](https://youtu.be/wcGGklDfHM4)"; e no seu blog [Agile: A Verdade por Trás do Método](https://www.akitaonrails.com/2014/09/28/off-topic-agile-a-verdade-por-tras-do-metodo), 
